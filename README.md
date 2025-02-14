@@ -1,6 +1,6 @@
 # 🎉 Questionários para Passa ou Repassa 🎉
 
-Repositório contendo conjuntos de perguntas prontas para serem utilizadas no jogo [Passa ou Repassa](https://github.com/caffwydev/passa-ou-repassa-src). 🎮
+Repositório contendo conjuntos de perguntas prontas para serem utilizadas no jogo [Passa ou Repassa](https://github.com/caffwydev/passa-ou-repassa-src) 🎮
 
 ## 📥 Como Usar
 
